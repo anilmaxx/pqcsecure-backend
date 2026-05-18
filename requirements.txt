@@ -1,0 +1,8 @@
+flask
+flask-cors
+kyber-py
+pycryptodome
+pillow
+numpy
+gunicorn==21.2.0
+scikit-image
